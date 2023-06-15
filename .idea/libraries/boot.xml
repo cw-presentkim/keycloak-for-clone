@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="boot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.github.crac.org-crac-0.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.jboss.byteman.byteman-4.0.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.quarkus.quarkus-development-mode-spi-2.13.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.quarkus.quarkus-vertx-latebound-mdc-provider-2.13.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.quarkus.quarkus-bootstrap-runner-2.13.7.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.jboss.logging.jboss-logging-3.4.1.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.wildfly.common.wildfly-common-1.5.4.Final-format-001.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/io.smallrye.common.smallrye-common-io-1.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.glassfish.jakarta.json-1.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.graalvm.sdk.graal-sdk-22.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lib/boot/org.jboss.logmanager.jboss-logmanager-embedded-1.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
